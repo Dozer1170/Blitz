@@ -1,0 +1,8 @@
+#!/bin/sh
+
+rm -rf '/mnt/c/World of Warcraft/_retail_/Interface/Addons/Blitz'
+rm -rf '/mnt/c/World of Warcraft/_retail_/Interface/Addons/Blitz_Config'
+rm -rf '/mnt/c/World of Warcraft/_retail_/Interface/Addons/Blitz_Progress'
+cp -Rv src/Blitz '/mnt/c/World of Warcraft/_retail_/Interface/Addons/'
+cp -Rv src/Blitz_Config/ '/mnt/c/World of Warcraft/_retail_/Interface/Addons/'
+cp -Rv src/Blitz_Progress/ '/mnt/c/World of Warcraft/_retail_/Interface/Addons/'

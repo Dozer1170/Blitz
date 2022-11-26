@@ -1,0 +1,9 @@
+## Interface: 100002
+## Title: Blitz Config
+## Author: Jaliborc (João Cardoso)
+## Notes: Load on demand options and tutorials for Blitz.
+## X-License: GNU General Public License Version 3
+## X-Category: Quest
+## Dependencies: Blitz
+
+..\Blitz\addons\config\config.xml
